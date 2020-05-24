@@ -149,3 +149,5 @@ class MulticlockAutoCounterF1Test extends TutorialSuite("MulticlockAutoCounterMo
 class TwoAddersF1Test extends TutorialSuite("TwoAdders")
 
 class MultiRegfileF1Test extends TutorialSuite("MultiRegfile")
+
+class NestedModelsF1Test extends TutorialSuite("NestedModels")
